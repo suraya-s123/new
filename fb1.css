@@ -1,0 +1,21 @@
+.one{
+    background-color: #d6d8da;
+    width:  80%;
+    height: 50%;
+    margin: 5px 300px;
+    padding: 72px 0px 112px 40px;
+    text-align: center;
+}
+
+.one-one:{
+    background-color: #dfdfdf;
+    width: 500px;
+    grid-area: menu;
+
+}
+.one-two{
+        background-color: #c7c8c8;
+        width: 500px;
+        display: inline-block;
+        grid-area: right;
+}
